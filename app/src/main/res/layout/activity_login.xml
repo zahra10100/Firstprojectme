@@ -29,7 +29,7 @@
         android:layout_marginTop="@dimen/margin20"
         android:text="@string/name"
         android:textSize="@dimen/font15"
-        android:textColor="@color/black"
+        android:textColor="@color/white"
         android:textStyle="normal"/>
     <EditText
         android:id="@+id/hint_name"

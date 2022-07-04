@@ -88,7 +88,7 @@ class LoginActivity : AppCompatActivity() {
                 Toast.makeText(this, "age is true", Toast.LENGTH_SHORT).show()
                 return true
             }else
-                Toast.makeText(this, "age is false", Toast.LENGTH_SHORT).show()
+                Toast.makeText(this, "age is sss false", Toast.LENGTH_SHORT).show()
             return false
         }
 
