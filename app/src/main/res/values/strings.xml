@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ProjectKarA</string>
+    <string name="name">نام   </string>
+    <string name="nameH">نام  خود را وارد کنید </string>
+    <string name="usernameH">نام کاربری  خود را وارد کنید </string>
+    <string name="username"> نام کاربری  </string>
+    <string name="ageH">سن خود را وارد کنید </string>
+    <string name="age">سن  </string>
+
+</resources>

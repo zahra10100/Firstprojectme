@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="font18">18sp</dimen>
+    <dimen name="font8">8sp</dimen>
+    <dimen name="font10">10sp</dimen>
+    <dimen name="font13">13sp</dimen>
+    <dimen name="font15">15sp</dimen>
+    <dimen name="font25">25sp</dimen>
+
+    <dimen name="margin5">5sp</dimen>
+    <dimen name="margin10">10sp</dimen>
+    <dimen name="margin15">15sp</dimen>
+    <dimen name="margin18">18sp</dimen>
+    <dimen name="margin20">20sp</dimen>
+    <dimen name="margin25">25sp</dimen>
+    <dimen name="margin40">60sp</dimen>
+
+    <dimen name="pading3">3sp</dimen>
+    <dimen name="pading5">5sp</dimen>
+    <dimen name="pading10">10sp</dimen>
+    <dimen name="pading15">15sp</dimen>
+</resources>
